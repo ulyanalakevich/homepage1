@@ -1,0 +1,15 @@
+.navigation__list {
+    list-style-type: none;
+    text-align: center;
+    padding-left: 0;
+    margin: 20px auto;
+    ;
+}
+
+.navigation__link {
+    color: rgb(0, 0, 0);
+}
+
+.navigation__link:active {
+    color: rgb(209, 16, 122);
+}

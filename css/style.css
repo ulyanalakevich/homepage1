@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-boxx;
+}
+
+*, ::before, ::after {
+    box-sizing: inherit;
+}
+
+.header {
+    color: rgb(238 16 179);
+    border: 2px solid rgb(238 16 179);
+    padding: 10px;
+    font: bold 30px/1.5;
+}
+
+.body {
+    background-color: rgba(220, 220, 220, 0.516);
+    max-width: 1000px;
+    text-align: center;
+    font-family: "Lato", sans-serif;
+    padding: 10px;
+    margin: 0 auto;
+}
+
+.conteiner {
+    overflow-x: auto;
+}
+
+.button {
+    border: 2px solid rgb(209, 16, 122);
+}

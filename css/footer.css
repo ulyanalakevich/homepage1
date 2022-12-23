@@ -1,0 +1,23 @@
+.footer__header {
+    border: 2px solid black;
+    padding: 5px;
+    font: bold 20px;
+}
+
+.footer__list {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.footer__listItem {
+    margin: 10px auto;
+}
+
+.footer__link {
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+
+.footer__link:active {
+    color: rgb(209, 16, 122);
+}
